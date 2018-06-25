@@ -1,6 +1,4 @@
 [submodule "anomaly-detection-demo"]
 	path = anomaly-detection-demo
 	url = https://github.com/emanuele-moscato/anomaly-detection-demo.git
-[submodule "clustering-demo"]
-	path = clustering-demo
-	url = ./clustering-demo/
+

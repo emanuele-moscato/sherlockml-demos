@@ -5,3 +5,6 @@
 [submodule "clustering-demo"]
 	path = clustering-demo
 	url = https://github.com/emanuele-moscato/clustering-demo.git
+[submodule "text-nlp-demo"]
+	path = text-nlp-demo
+	url = https://github.com/emanuele-moscato/text-nlp-demo.git
